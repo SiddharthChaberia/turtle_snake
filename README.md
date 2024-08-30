@@ -1,4 +1,4 @@
-This is a snack game made mainly using the Turtle library of Python.
+This is a snake game made mainly using the Turtle library of Python.
 
 Its really great that a few lines of code can do such a great miracle in python.
 
